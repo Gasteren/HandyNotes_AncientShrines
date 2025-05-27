@@ -39,7 +39,7 @@ You can find all settings under: Interface > AddOns > HandyNotes > Plugins tab
 
 ## 🛠️ Problems or Suggestions?
 
-- Please open an [Issue](.https://www.curseforge.com/wow/addons/lozn64-levelup/settings/issues)
+- Please open an [Issue](https://legacy.curseforge.com/wow/addons/handynotes_ancientshrines/issues/create)
 - Or contact me on [X](https://x.com/vGasteren)
 
 ---
