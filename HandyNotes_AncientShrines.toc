@@ -1,7 +1,7 @@
 ## Interface: 110107, 110200
 
 ## Title: HandyNotes_AncientShrines
-## Version: 11.1.5
+## Version: 11.1.7
 ## Notes: Displays the locations of the ancientshrines, usefull for PVP or PVE, Experience LEGACY
 ## Author: Frostaphim-Xavius
 
