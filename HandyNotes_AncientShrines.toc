@@ -4,7 +4,6 @@
 ## Version: 12.0.1
 ## Notes: Displays the locations of the ancientshrines, usefull for PVP or PVE, Experience LEGACY
 ## Author: Frost-Xavius
-## Group: Tools by: Frostaphim | Frost-Lightbringer
 
 ## DefaultState: enabled
 ## RequiredDeps: HandyNotes
