@@ -4,7 +4,7 @@
 ## Version: 12.0.5
 ## Notes: Displays the locations of the ancientshrines, usefull for PVP or PVE, Experience LEGACY
 ## Author: Frost-Xavius
-
+## X-Curse-Project-ID: 272284
 
 ## DefaultState: enabled
 ## RequiredDeps: HandyNotes
